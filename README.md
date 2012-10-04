@@ -1,4 +1,5 @@
-spin.js
-=======
 
-Spin.js for component(1)
+# spin.js
+
+  Spin.js for component(1)
+

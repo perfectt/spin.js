@@ -1,0 +1,7 @@
+{
+  "name": "spin.js"
+, "repo": "perfectt/spin.js"
+, "description": "Spin.js for component(1)"
+, "version": "0.0.1"
+, "scripts": [ "index.js" ]
+}
